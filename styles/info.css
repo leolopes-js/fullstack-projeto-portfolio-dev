@@ -9,12 +9,14 @@ header {
 #info {
   display: flex;
   justify-content: center;
+  align-items: center;
 
   img {
     margin-top: 120px;
     width: 112px;
   }
 }
+
 
 .text-title {
 
@@ -25,7 +27,7 @@ header {
     color: var(--color-base-gray-500);
 
     span {
-      color: red;
+      color: #E3646E;
     }
   }
 
@@ -44,3 +46,4 @@ header {
     
   }
 }
+
