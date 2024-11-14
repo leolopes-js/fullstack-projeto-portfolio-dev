@@ -1,0 +1,46 @@
+header {
+  width: 1366px;
+  height: 750px;
+  
+  background-image: url(../assets/Background_Intro.png);
+  background-size: cover;
+}
+
+#info {
+  display: flex;
+  justify-content: center;
+
+  img {
+    margin-top: 120px;
+    width: 112px;
+  }
+}
+
+.text-title {
+
+  h2 {
+    margin-top: 56px;
+    text-align: center;
+    font: var(--subtitle);
+    color: var(--color-base-gray-500);
+
+    span {
+      color: red;
+    }
+  }
+
+  h1 {
+    margin-top: 8px;
+    text-align: center;
+    font: var(--title-lg);
+    color: var(--color-base-gray-600);    
+  }
+
+  p {
+    margin-top: 20px;
+    text-align: center;
+    font: var(--text-sm);
+    color: var(--color-base-gray-400);
+    
+  }
+}
