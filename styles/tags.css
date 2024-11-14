@@ -1,0 +1,35 @@
+
+#tags {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+
+  gap: 16px;
+
+  width: 754px;
+  height: 40px;
+
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 16px;
+  gap: 8px;
+
+  background: var(--color-base-gray-300);
+  border-radius: 999px;
+
+  img {
+    width: 24px;
+    height: 24px;
+  }
+
+  p {
+    font: var(--text-md);
+    text-decoration: none;
+    color: var(--color-base-gray-500);
+  }
+}
+
+
