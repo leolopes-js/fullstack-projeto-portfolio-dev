@@ -33,9 +33,21 @@
 }
 
 #pointer {
+  display: flex;
 position: absolute;
 width: 32px;
 height: 32px;
 left: 667px;
 top: 661px;
+}
+
+.main-red {
+  color: #E3646E;
+  font: var(--subtitle);
+}
+
+.title-md {
+  h3 {
+    font: var(--title-md);
+  }
 }

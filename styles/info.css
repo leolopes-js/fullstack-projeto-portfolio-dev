@@ -23,12 +23,7 @@ header {
   h2 {
     margin-top: 56px;
     text-align: center;
-    font: var(--subtitle);
     color: var(--color-base-gray-500);
-
-    span {
-      color: #E3646E;
-    }
   }
 
   h1 {
@@ -46,4 +41,3 @@ header {
     
   }
 }
-
