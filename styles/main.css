@@ -11,11 +11,17 @@ background-color: var(--color-base-gray-200);
   align-items: center;
   gap: 8px;
 
+  margin-bottom: 56px;
 
   span {
     margin-top: 72px;
   }
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 
+  justify-self: center;
+}
 

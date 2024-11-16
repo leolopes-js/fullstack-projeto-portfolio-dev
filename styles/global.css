@@ -47,7 +47,6 @@ top: 661px;
 }
 
 .title-md {
-  h3 {
-    font: var(--title-md);
-  }
+  font: var(--title-md);
+  color: var(--color-base-gray-600);
 }
