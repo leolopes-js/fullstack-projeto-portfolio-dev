@@ -2,18 +2,41 @@ main {
 width: 1366px;
 height: 917px;
 
+box-sizing: border-box;
+
 background-color: var(--color-base-gray-200);
 }
 
-#main-header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 8px;
+.project-card {
+  width: 330px;
+  height: 280px;
+  padding: 12px;
+  transition: box-shadow 0.5s ease;
 
-  margin-bottom: 56px;
 
-  span {
-    margin-top: 72px;
+  box-shadow: 0 0 0 1px #000000;
+  border-radius: 12px;
+  background-color: var(--color-base-gray-300);
+
+  &:hover {
+    box-shadow: 0 0 0 1.5px var(--color-base-gray-400);
+  }
+
+  img {
+    width: 306px;
+    height: 156px;
+
+    border-radius: 8px;
   }
 }
+
+
+
+
+
+
+
+
+
+
+

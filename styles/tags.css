@@ -1,11 +1,8 @@
-
 #tags {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  display: flex;
 
   justify-self: center;
-
-  gap: 16px;
+  justify-content: space-between;
   margin-top: 80px;
 
   width: 754px;

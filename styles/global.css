@@ -41,12 +41,36 @@ left: 667px;
 top: 661px;
 }
 
-.main-red {
-  color: #E3646E;
-  font: var(--subtitle);
+
+.main-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  
+
+  margin-bottom: 56px;
+
+  span {
+    margin-top: 72px;
+  }
+
+  h3 {
+    font: var(--subtitle);
+    color: #BB72E9;
+  }
 }
 
-.title-md {
-  font: var(--title-md);
-  color: var(--color-base-gray-600);
+footer {
+  width: 1366px;
+  height: 787px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding-top: 128px;
+
+  background-image: url(../assets/Background_Contacts.png);
+  background-size: cover;
 }
