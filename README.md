@@ -14,10 +14,6 @@ O objetivo é criar uma página para exibir meus projetos, habilidades e informa
 
 - **Layout Moderno**: Utilização de grids e flexbox para organizar o conteúdo de forma eficiente e bonita.
 
-## Instruções para rodar o projeto
+## Acesse o Projeto
 
-### 1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+ [Meu Portfólio Dev](ttps://leolopes-js.github.io/fullstack-projeto-portfolio-dev/)
