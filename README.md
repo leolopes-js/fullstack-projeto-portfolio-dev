@@ -16,4 +16,4 @@ O objetivo é criar uma página para exibir meus projetos, habilidades e informa
 
 ## Acesse o Projeto
 
- [Meu Portfólio Dev](ttps://leolopes-js.github.io/fullstack-projeto-portfolio-dev/)
+ [Meu Portfólio Dev](https://leolopes-js.github.io/fullstack-projeto-portfolio-dev/)
