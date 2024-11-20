@@ -8,7 +8,7 @@ O objetivo é criar uma página para exibir meus projetos, habilidades e informa
 ## Tecnologias utilizadas
 
 - **HTML** ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png): Estruturação da página e conteúdo.
-- **CSS** ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png): Estilização, design responsivo e layout.
+- **CSS** ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png): Estilização, e layout.
 
 ## Funcionalidades
 
